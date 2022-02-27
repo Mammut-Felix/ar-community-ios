@@ -1,0 +1,354 @@
+[
+    {
+        "id": 50,
+        "name": "AR Hoodie white - Unisex",
+        "slug": "anastasia-rose-men-shirt-white",
+        "permalink": "https://work349585.mammut-hosting.de/produkt/anastasia-rose-men-shirt-white/",
+        "date_created": "2022-02-05T01:53:00",
+        "date_created_gmt": "2022-02-05T01:53:00",
+        "date_modified": "2022-02-05T14:47:43",
+        "date_modified_gmt": "2022-02-05T14:47:43",
+        "type": "variable",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<p>65% Baumwolle 35% Polyester</p>\n<p>Druckart: Siebdruck</p>\n",
+        "short_description": "",
+        "sku": "",
+        "price": "999.99",
+        "regular_price": "",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": false,
+        "stock_quantity": null,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "sold_individually": false,
+        "weight": "",
+        "dimensions": {
+            "length": "",
+            "width": "",
+            "height": ""
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 16,
+                "name": "Unkategorisiert",
+                "slug": "unkategorisiert"
+            }
+        ],
+        "tags": [],
+        "images": [
+            {
+                "id": 53,
+                "date_created": "2022-02-05T01:55:41",
+                "date_created_gmt": "2022-02-05T01:55:41",
+                "date_modified": "2022-02-05T01:55:41",
+                "date_modified_gmt": "2022-02-05T01:55:41",
+                "src": "https://work349585.mammut-hosting.de/wp-content/uploads/2022/02/1585349091.png",
+                "name": "1585349091",
+                "alt": ""
+            }
+        ],
+        "attributes": [
+            {
+                "id": 0,
+                "name": "Größe",
+                "position": 0,
+                "visible": true,
+                "variation": true,
+                "options": [
+                    "XS",
+                    "S",
+                    "M",
+                    "L",
+                    "XL",
+                    "XXL",
+                    "3XL",
+                    "4XL",
+                    "5XL"
+                ]
+            }
+        ],
+        "default_attributes": [],
+        "variations": [
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62
+        ],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>999,99&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+        "related_ids": [
+            37
+        ],
+        "meta_data": [
+            {
+                "id": 271,
+                "key": "_et_pb_post_hide_nav",
+                "value": "default"
+            },
+            {
+                "id": 272,
+                "key": "_et_pb_page_layout",
+                "value": "et_right_sidebar"
+            },
+            {
+                "id": 273,
+                "key": "_et_pb_side_nav",
+                "value": "off"
+            },
+            {
+                "id": 274,
+                "key": "_et_pb_use_builder",
+                "value": ""
+            },
+            {
+                "id": 275,
+                "key": "_et_pb_first_image",
+                "value": ""
+            },
+            {
+                "id": 276,
+                "key": "_et_pb_truncate_post",
+                "value": ""
+            },
+            {
+                "id": 277,
+                "key": "_et_pb_truncate_post_date",
+                "value": ""
+            },
+            {
+                "id": 278,
+                "key": "_et_pb_old_content",
+                "value": ""
+            }
+        ],
+        "stock_status": "instock",
+        "_links": {
+            "self": [
+                {
+                    "href": "https://work349585.mammut-hosting.de/wp-json/wc/v3/products/50"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://work349585.mammut-hosting.de/wp-json/wc/v3/products"
+                }
+            ]
+        }
+    },
+    {
+        "id": 37,
+        "name": "AR Hoodie black - Unisex",
+        "slug": "anastasia-rose-hoodie-black-unisex",
+        "permalink": "https://work349585.mammut-hosting.de/produkt/anastasia-rose-hoodie-black-unisex/",
+        "date_created": "2022-02-02T20:44:48",
+        "date_created_gmt": "2022-02-02T20:44:48",
+        "date_modified": "2022-02-05T13:54:27",
+        "date_modified_gmt": "2022-02-05T13:54:27",
+        "type": "variable",
+        "status": "publish",
+        "featured": false,
+        "catalog_visibility": "visible",
+        "description": "<p><span style=\"color: #000000;\">65% Baumwolle 35% Polyester</span><br />\n<span style=\"color: #000000;\">Druckart: Siebdruck</span></p>\n",
+        "short_description": "",
+        "sku": "",
+        "price": "999.99",
+        "regular_price": "",
+        "sale_price": "",
+        "date_on_sale_from": null,
+        "date_on_sale_from_gmt": null,
+        "date_on_sale_to": null,
+        "date_on_sale_to_gmt": null,
+        "on_sale": false,
+        "purchasable": true,
+        "total_sales": 0,
+        "virtual": false,
+        "downloadable": false,
+        "downloads": [],
+        "download_limit": -1,
+        "download_expiry": -1,
+        "external_url": "",
+        "button_text": "",
+        "tax_status": "taxable",
+        "tax_class": "",
+        "manage_stock": false,
+        "stock_quantity": null,
+        "backorders": "no",
+        "backorders_allowed": false,
+        "backordered": false,
+        "low_stock_amount": null,
+        "sold_individually": false,
+        "weight": "",
+        "dimensions": {
+            "length": "",
+            "width": "",
+            "height": ""
+        },
+        "shipping_required": true,
+        "shipping_taxable": true,
+        "shipping_class": "",
+        "shipping_class_id": 0,
+        "reviews_allowed": true,
+        "average_rating": "0.00",
+        "rating_count": 0,
+        "upsell_ids": [],
+        "cross_sell_ids": [],
+        "parent_id": 0,
+        "purchase_note": "",
+        "categories": [
+            {
+                "id": 16,
+                "name": "Unkategorisiert",
+                "slug": "unkategorisiert"
+            }
+        ],
+        "tags": [],
+        "images": [
+            {
+                "id": 48,
+                "date_created": "2022-02-02T20:50:00",
+                "date_created_gmt": "2022-02-02T20:50:00",
+                "date_modified": "2022-02-02T20:50:00",
+                "date_modified_gmt": "2022-02-02T20:50:00",
+                "src": "https://work349585.mammut-hosting.de/wp-content/uploads/2022/02/1585349381.png",
+                "name": "1585349381",
+                "alt": ""
+            }
+        ],
+        "attributes": [
+            {
+                "id": 0,
+                "name": "Größe",
+                "position": 0,
+                "visible": true,
+                "variation": true,
+                "options": [
+                    "XS",
+                    "S",
+                    "M",
+                    "L",
+                    "XL",
+                    "XXL",
+                    "3XL",
+                    "4XL",
+                    "5XL"
+                ]
+            }
+        ],
+        "default_attributes": [
+            {
+                "id": 0,
+                "name": "Größe",
+                "option": "M"
+            }
+        ],
+        "variations": [
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46
+        ],
+        "grouped_products": [],
+        "menu_order": 0,
+        "price_html": "<span class=\"woocommerce-Price-amount amount\"><bdi>999,99&nbsp;<span class=\"woocommerce-Price-currencySymbol\">&euro;</span></bdi></span>",
+        "related_ids": [
+            50
+        ],
+        "meta_data": [
+            {
+                "id": 50,
+                "key": "_et_pb_post_hide_nav",
+                "value": "default"
+            },
+            {
+                "id": 51,
+                "key": "_et_pb_page_layout",
+                "value": "et_right_sidebar"
+            },
+            {
+                "id": 52,
+                "key": "_et_pb_side_nav",
+                "value": "off"
+            },
+            {
+                "id": 53,
+                "key": "_et_pb_use_builder",
+                "value": ""
+            },
+            {
+                "id": 54,
+                "key": "_et_pb_first_image",
+                "value": ""
+            },
+            {
+                "id": 55,
+                "key": "_et_pb_truncate_post",
+                "value": ""
+            },
+            {
+                "id": 56,
+                "key": "_et_pb_truncate_post_date",
+                "value": ""
+            },
+            {
+                "id": 57,
+                "key": "_et_pb_old_content",
+                "value": ""
+            }
+        ],
+        "stock_status": "instock",
+        "_links": {
+            "self": [
+                {
+                    "href": "https://work349585.mammut-hosting.de/wp-json/wc/v3/products/37"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "https://work349585.mammut-hosting.de/wp-json/wc/v3/products"
+                }
+            ]
+        }
+    }
+]

@@ -8,14 +8,24 @@
 import SwiftUI
 
 struct ContentView: View {
+    @EnvironmentObject var state: AppState
+
     var body: some View {
-        Text("Hello, world!")
-            .padding()
+        ZStack {
+            if state.loggedIn {
+                Tabview()
+                    .environmentObject(state)
+            } else {
+                LoginView()
+                    .environmentObject(state)
+            }
+        }
     }
 }
 
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
         ContentView()
+            .environmentObject(AppState(user: nil))
     }
 }
